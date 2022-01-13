@@ -1,2 +1,2 @@
 # depurar-css
-Cuando CSS no hace lo que esperamos recurrimos a las DevTools para saber qué está pasando
+Repasamos el potencial de las DevTools para solucionar problemas y vemos algunos conceptos para corregir nuestro CSS.
